@@ -1,4 +1,4 @@
-## Publish your own Angular Library on NPM within 15 min!!
+## Publish your own Custom Angular Library on NPM within 15 min!!
 
 ### Contents
 
