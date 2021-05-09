@@ -52,13 +52,13 @@ Now we will add our custom code in the **hello-world-pratham.component.ts** file
 
 ## Building the library😍
 
-After this, we will build we build our library by using the following command. 
+After this, we will build  our library by using the following command. 
 
 ![carbon (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1620566131247/U4G0vbiYi.png)
 
 >  **Notice**: Here we have used the **--prod** flag along with the build command to escape from **[Ivy Error](https://angular.io/guide/ivy) ** which occurs while publishing library to NPM.
 
-After generating the build our library is ready to use and as a safer side before publishing, we will test it in our angular workspace (which we have generated in section 1)
+After generating the build our library is ready to use and as a safer side before publishing, we will test it in our angular workspace (which we have generated in section 2)
 
 ## Testing the library by importing😲
 
